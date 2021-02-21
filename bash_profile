@@ -45,7 +45,7 @@ function mkcd()
 # -------
 # Aliases
 # -------
-alias initbackend="yarn add ts-node ts-node-dev typescript @types/node"
+alias initbackend="yarn add ts-node ts-node-dev typescript @types/node fastify @fasteerjs/fasteer @fasteerjs/jwt"
 alias 🍺="git checkout -b drunk"
 alias a='code .'
 alias c='code .'
