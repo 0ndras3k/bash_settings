@@ -78,7 +78,7 @@ alias gd='git diff'
 alias gi='git init'
 alias gl='git log'
 alias gp='git pull'
-alias gpsh='git push'
+alias gpsh='git push origin'
 alias gss='git status -s'
 alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
 
